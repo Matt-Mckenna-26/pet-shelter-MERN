@@ -1,0 +1,9 @@
+.form-grouping {
+  display: inline-block ; 
+  width : 50%
+}
+
+.pet-detail-item {
+  display: block;
+  font-size: large;
+}
